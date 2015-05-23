@@ -45,3 +45,6 @@ describe "User pages" do
     end
   end
 end
+
+#エラーあり
+#リスト8.30以降微妙な感じ
