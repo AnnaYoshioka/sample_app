@@ -75,3 +75,5 @@ SampleApp::Application.routes.draw do
   #     resources :products
   #   end
 end
+
+# 8章の8.3らへん!!!!
